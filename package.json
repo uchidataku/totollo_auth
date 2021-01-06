@@ -28,7 +28,7 @@
     "@graphql-codegen/typescript-react-apollo": "2.0.7",
     "antd": "4.7.3",
     "apollo-link-fragment-argument": "1.0.1",
-    "axios": "0.20.0",
+    "axios": "0.21.1",
     "camelcase": "^6.1.0",
     "classnames": "2.2.6",
     "env-cmd": "10.1.0",
